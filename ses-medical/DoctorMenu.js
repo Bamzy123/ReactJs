@@ -1,4 +1,3 @@
-// components/DoctorMenu.js
 import React from "react";
 
 function DoctorMenu() {
